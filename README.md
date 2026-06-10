@@ -5,7 +5,7 @@ Actively seeking Software Engineer / AI Engineer opportunities!
 - 🎓 M.S. from National Taiwan Normal University (NTNU)
 - 💼 Focus: AI / Deep Learning / Action Recognition
 
-- 
+
 <!--
 **yixiuzzz/yixiuzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
