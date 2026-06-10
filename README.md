@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🎓 M.S. in Electrical Engineering, National Taiwan Normal University (NTNU)
-💼 Focus: AI / Deep Learning / Action Recognition
+- 🎓 M.S. in Electrical Engineering, National Taiwan Normal University (NTNU)
+- 💼 Focus: AI / Deep Learning / Action Recognition
 
 Actively seeking Software Engineer / AI Engineer opportunities!
 
