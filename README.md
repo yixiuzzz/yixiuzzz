@@ -18,8 +18,8 @@ Actively seeking New Grad Software / AI Engineer opportunities!
 
 
 ## 📫 Reach me at 
-- 📧 [Email](yixiu910@gmail.com)
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/yihsiu-chen)
+- 📧 [Email](mailto:yixiu910@gmail.com)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/yihsiu-chen)
 
 <!--
 **yixiuzzz/yixiuzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
