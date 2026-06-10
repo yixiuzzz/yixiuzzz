@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am an electrical engineering graduate specializing in AI 🧠. Interested in making algorithms actionable and systems more intelligent 🚀.
+I am an electrical engineering graduate specializing in AI . Interested in making algorithms actionable and systems more intelligent 🚀.
 
 - 🎓 M.S. in National Taiwan Normal University (NTNU)
 - 💼 Focus: AI / Deep Learning / Action Recognition
