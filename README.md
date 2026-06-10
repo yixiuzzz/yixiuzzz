@@ -16,6 +16,6 @@ Actively seeking **New Grad Software / AI Engineer** opportunities!
 ##  Projects
 *Project repositories will be featured here!*
 
-## Reach me at 
+## Connect
 - 📧 [Email](mailto:yixiu910@gmail.com)
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/yihsiu-chen) [LinkedIn](https://www.linkedin.com/in/yihsiu-chen)
