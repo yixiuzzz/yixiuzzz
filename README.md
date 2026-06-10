@@ -6,6 +6,7 @@ Actively seeking Software Engineer / AI Engineer opportunities!
 - 💼 Focus: AI / Deep Learning / Action Recognition
 
 ### 📫 Reach me at 
+📧 [Email me](yixiu910@gmail.com)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/yihsiu-chen)
 
 <!--
