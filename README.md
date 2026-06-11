@@ -11,7 +11,7 @@ Actively seeking **New Grad Software / AI Engineer** opportunities!
 - 🎓 **Education:** M.S. in Electrical Engineering from National Taiwan Normal University (NTNU)
 - 💼 **Focus:** AI / Deep Learning / Compuer Vision / Action Recognition
 - 🐾 **Pet:** Proud companion of 1 cat 🐱
-- 🏀 **Sports:** Basketball Lover
+- ⛹️ **Sports:** Basketball / Soccer / Tennis / Baseball.....and more
   
 ##  Projects
 ### ⚽ [Efficient Fine-grained Soccer Action Recognition](https://github.com/yixiuzzz/Fine-grained-Soccer-Action-Recognition)
