@@ -9,11 +9,16 @@ Actively seeking **New Grad Software / AI Engineer** opportunities!
 
 ## About Me
 - 🎓 **Education:** M.S. in Electrical Engineering from National Taiwan Normal University (NTNU)
-- 💼 **Focus:** AI / Deep Learning / Compuer Vision
+- 💼 **Focus:** AI / Deep Learning / Compuer Vision / Action Recognition
 - 🐾 **Pet:** Proud companion of 1 cat 🐱
-
+- 🏀 **Sports:** Basketball Lover
+- 
 ##  Projects
-*Project repositories will be featured here!*
+### ⚽ [Efficient Fine-grained Soccer Action Recognition](https://github.com/yixiuzzz/Fine-grained-Soccer-Action-Recognition)
+*A lightweight spatiotemporal video analysis framework built to address low inter-class variance in sports broadcasting, optimizing fine-grained behavior tracking with minimal computational overhead.*
+* **Tech Stack:** `Python` `PyTorch` `3D CNN (X3D)` `OpenCV` `WandB`
+* **Key Achievements:** Successfully distinguished highly similar actions (e.g., *Kick* vs. *Move*) by extracting robust motion features, achieving up to a **+13.58% precision boost** while maintaining a highly efficient model footprint.
+
 
 ## Connect
 - 📧 [Email](mailto:yixiu910@gmail.com)
