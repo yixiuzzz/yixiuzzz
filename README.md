@@ -11,7 +11,6 @@ Actively seeking **New Grad Software / AI Engineer** opportunities!
 - 🎓 **Education:** M.S. in Electrical Engineering from National Taiwan Normal University (NTNU)
 - 💼 **Focus:** AI / Deep Learning / Compuer Vision
 - 🐾 **Pet:** Proud companion of 1 cat 🐱
-- 🏀 **Sport:** Basketball lover 
 
 ##  Projects
 *Project repositories will be featured here!*
