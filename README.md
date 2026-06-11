@@ -12,7 +12,7 @@ Actively seeking **New Grad Software / AI Engineer** opportunities!
 - 💼 **Focus:** AI / Deep Learning / Compuer Vision / Action Recognition
 - 🐾 **Pet:** Proud companion of 1 cat 🐱
 - 🏀 **Sports:** Basketball Lover
-- 
+  
 ##  Projects
 ### ⚽ [Efficient Fine-grained Soccer Action Recognition](https://github.com/yixiuzzz/Fine-grained-Soccer-Action-Recognition)
 *A lightweight spatiotemporal video analysis framework built to address low inter-class variance in sports broadcasting, optimizing fine-grained behavior tracking with minimal computational overhead.*
