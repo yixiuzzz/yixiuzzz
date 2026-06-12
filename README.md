@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi I'm Rity 👋
 
 I am an electrical engineering graduate specializing in AI / Deep Learning. Interested in making algorithms actionable and systems more intelligent . 
 
