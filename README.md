@@ -5,7 +5,7 @@ I am an electrical engineering graduate specializing in AI / Deep Learning. Inte
 Actively seeking **New Grad Software / AI Engineer** opportunities!
 
 ## Resume
-[Resume](https://github.com/user-attachments/files/28886766/resume_rity_chen.pdf)
+[Rity's Resume](https://github.com/user-attachments/files/28886766/resume_rity_chen.pdf)
 
 
 ## About Me
