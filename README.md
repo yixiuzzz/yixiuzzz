@@ -15,9 +15,9 @@ Actively seeking **New Grad Software / AI Engineer** opportunities!
   
 ##  Projects
 ### ⚽ [Efficient Fine-grained Soccer Action Recognition](https://github.com/yixiuzzz/Fine-grained-Soccer-Action-Recognition)
-*A lightweight spatiotemporal video analysis framework built to address low inter-class variance in sports broadcasting, optimizing fine-grained behavior tracking with minimal computational overhead.*
+*This is a lightweight and high-efficiency video analysis system built upon the PyTorch framework.*
 * **Tech Stack:** `Python` `PyTorch` `3D CNN (X3D)` `OpenCV` `WandB`
-* **Key Achievements:** Successfully resolved visual ambiguity between highly similar actions, achieving a massive **+13.58% precision boost specifically for the Kicking category** while maintaining a highly efficient model footprint.
+* **Key Achievements:** Overcame low inter-class variance in highly similar dynamic actions, boosting prediction precision for complex kicking actions by 13.85%.
 
 ## Connect
 - 📧 [Email](mailto:yixiu910@gmail.com)
