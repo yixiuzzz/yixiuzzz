@@ -6,7 +6,8 @@ I am an electrical engineering graduate specializing in AI / Deep Learning. Inte
 Actively seeking **New Grad Software / AI Engineer** opportunities!
 
 ## Resume
-[English/Chinese Resume](https://github.com/user-attachments/files/29006166/default.pdf)
+[English/Chinese Resume](https://github.com/user-attachments/files/29453566/_v2.pdf)
+
 
 
 
